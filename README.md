@@ -19,6 +19,9 @@ This repository includes the GPS (graph propensity score) part for paper "Toward
     networkx==2.6.3
     Ray Tune
 
+## Results
 The UMAP visualization of different rewired graph embeddings for the Cornell dataset:
 
 <img width="1854" alt="image" src="https://user-images.githubusercontent.com/68533876/227424482-0f5cf405-5e1a-4486-84e5-92e4eed8155a.png">
+
+For more details, please refer to our paper:
