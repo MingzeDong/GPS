@@ -1,6 +1,20 @@
-# GPS_ESNR
+# GPS (Graph rewiring via propensity score)
 
-This repository includes visualization results for paper "Towards understanding and reducing graph structural noise for GNNs".
+This repository includes the GPS (graph propensity score) part for paper "Towards Understanding and Reducing Graph Structural Noise for GNNs".
+
+## Dependencies
+
+    numpy
+    torch==1.13.0
+    matplotlib
+    sklearn
+    scipy
+    numba (for SDRF)
+    torch-scatter torch-sparse torch-cluster torch-spline-conv -f https://data.pyg.org/whl/torch-1.13.0+cu117.html
+    torch-geometric==2.2.0
+    ogb==1.3.5
+    networkx==2.6.3
+    Ray Tune
 
 The UMAP visualization of different rewired graph embeddings for the Cornell dataset:
 
