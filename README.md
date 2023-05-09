@@ -2,6 +2,9 @@
 
 This repository includes the GPS (graph propensity score) part for paper "Towards Understanding and Reducing Graph Structural Noise for GNNs".
 
+<img width="1442" alt="image" src="https://github.com/MingzeDong/GPS/assets/68533876/e510e851-2698-4b80-bf83-2fbe7bbedc24">
+
+
 ## Dependencies
 
     numpy
